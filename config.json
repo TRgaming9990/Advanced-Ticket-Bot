@@ -1,0 +1,30 @@
+
+{  
+  "token": "OTc2MDY1MTUzOTY5ODI3ODQw.GrcNjp.sE6pZ1346aCKVzEHM6hBRGvlXpzCJ-0Sw5nbKw",
+  "prefix": "$",
+  "activity": "/help | watching tickets ✌️ | On Cluster: {shards} | coded by .gg/azury",
+  "type": "WATCHING",
+  "status": "idle",
+  
+  "COMMENT": "Only enable hostingweb if you are using replit!",
+  "hostingweb": true,
+  
+  "developers": ["897301257037959219"],
+
+
+
+  "color": {
+    "main"   : "#3903ff",
+    "error"  : "#ff5f8e",
+    "success": "#99ff9c",
+
+    "red"   : "#ff5a48",
+    "orange": "#ffca4d",
+    "yellow": "#ffcc5c",
+    "green" : "#74ff89",
+    "purple": "#7d5eff",
+    "pink"  : "#ff88d2",
+    "grey"  : "#4b4b4b",
+    "white" : "#ffffff"
+  }
+}
